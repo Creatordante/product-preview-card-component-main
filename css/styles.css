@@ -101,7 +101,7 @@ h2 {
 
 /*  Background Img  */
 .img-container {
-  background: url(./images/image-product-mobile.jpg);
+  background: url(../images/image-product-mobile.jpg);
   display: inline;
   background-size: cover;
   background-position: top center;
@@ -112,7 +112,7 @@ h2 {
 
 @media (min-width: 768px) {
   .img-container {
-    background: url(./images/image-product-desktop.jpg);
+    background: url(../images/image-product-desktop.jpg);
     background-size: cover;
     background-position: center center;
     height: 100%;
