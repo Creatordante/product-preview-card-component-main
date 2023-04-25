@@ -58,7 +58,7 @@ h2 {
 }
 
 .btn::before {
-  content: url(/images/icon-cart.svg);
+  content: url(./images/icon-cart.svg);
   margin-right: 0.8rem;
   padding-top: 0.1rem;
 }
@@ -101,7 +101,7 @@ h2 {
 
 /*  Background Img  */
 .img-container {
-  background: url(/images/image-product-mobile.jpg);
+  background: url(./images/image-product-mobile.jpg);
   display: inline;
   background-size: cover;
   background-position: top center;
@@ -112,7 +112,7 @@ h2 {
 
 @media (min-width: 768px) {
   .img-container {
-    background: url(/images/image-product-desktop.jpg);
+    background: url(./images/image-product-desktop.jpg);
     background-size: cover;
     background-position: center center;
     height: 100%;
